@@ -2,7 +2,7 @@
 
 
 # **Let's get acquainted :**
-- 🌱 I am an engineering student from Auvergne who specializes in AI, DS and ML in IMT Mines Alès school.
+- 🌱 I'm an AI and Data Science engineer from IMT Mines Alès, with a unique blend of experiences from living a year and half in Brazil and Australia. This global exposure has fueled my passion for creating innovative solutions in generative AI. 
 
 - ⚡ Facts: My passion lies in the realm of generative AI, particularly in fine-tuning advanced models like Stable Diffusion 1.5 to cater to unique industries, such as the tattoo sector. I'm fascinated by the potential of AI to transform traditional art forms, and I'm dedicated to adapting these technologies for creative applications. Automation and innovation are at the core of my interests, and programming serves as a key tool in realizing these ambitions. When I'm engaged in a project that captivates me, especially those that blend AI with art, I can immerse myself for days on end, tirelessly working to achieve the perfect synergy
 
@@ -24,8 +24,7 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="60" height="60"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="60" height="60"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="60" height="60"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="60" height="60"/>&nbsp;
-
+      
    - **Frameworks :**      
   
       <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="80" height="80"/>&nbsp;
