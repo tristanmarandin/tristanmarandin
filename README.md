@@ -6,10 +6,8 @@
 
 - ⚡ Facts: My passion lies in the realm of generative AI, particularly in fine-tuning advanced models like Stable Diffusion 1.5 to cater to unique industries, such as the tattoo sector. I'm fascinated by the potential of AI to transform traditional art forms, and I'm dedicated to adapting these technologies for creative applications. Automation and innovation are at the core of my interests, and programming serves as a key tool in realizing these ambitions. When I'm engaged in a project that captivates me, especially those that blend AI with art, I can immerse myself for days on end, tirelessly working to achieve the perfect synergy
 
-![Warrior](img/warrior.png) ![Mage](img/right0.png) ![Knight](img/royalKnight.png) ![Frozen Warrior](img/frozenWarrior.png) ![BR](img/br.png) ![Gros Homme Poisson](img/grosHommePoisson.png) ![Homme Poisson](img/hommePoisson.png) ![Ranger](img/left032.png) ![Wizard](img/wizard.png)
-![Bow](img/bow.png) ![Staff](img/staff.png) ![Spell](img/spell.png) ![Robe](img/robe.png) ![Amulet](img/amulet.png) ![Ring](img/ring.png)
 
-- 📫 How to reach me: [mail](mailto:jbjbtrognon@gmail.com)
+- 📫 How to reach me: [mail](mailto:tristan.marandin@mines-ales.org)
 
 ---
 
